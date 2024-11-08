@@ -24,7 +24,7 @@ i am not sure what to 'fix' as:
 
 - i will upload another screenshot for a successful example, which will show more info
   * 'screen_captures/step_function_successful_example_input.png'
-  * * 'screen_captures/step_function_successful_example_output.png'
+  * 'screen_captures/step_function_successful_example_output.png'
 - 'test/motorcycle_s_000446.png' is the test that did not meet the 0.93 threshold, which is the error example, i will add the respective screenshot
   * 'screen_captures/step_function_error_example_input.png'
   * 'screen_captures/step_function_error_example_output.png'
